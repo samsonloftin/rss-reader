@@ -14,7 +14,11 @@ The following project demonstrates test-driven development by utilizing Jasmine 
 6. If there is atleast one entry loaded in the feed
 7. If the feed loads new entries
 
+## Bugs
+Chrome has found the API to be unsecured leading to the tests to fail. Until this is fixed, you can load the API anyways by clicking the "Shield w/ the red x" in the address bar while a fix is being made.
+
 ## Future Updates
+[ ] Have all elements be secure
 [ ] Choose new RSS Feed Api
 [ ] Design HTML/CSS layout
 
