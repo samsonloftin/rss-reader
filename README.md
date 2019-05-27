@@ -18,9 +18,9 @@ The following project demonstrates test-driven development by utilizing Jasmine 
 Chrome has found the API to be unsecured leading to the tests to fail. Until this is fixed, you can load the API anyways by clicking the "Shield w/ the red x" in the address bar while a fix is being made.
 
 ## Future Updates
-[ ] Have all elements be secure
-[ ] Choose new RSS Feed Api
-[ ] Design HTML/CSS layout
+[ ] Have all elements be secure  
+[ ] Choose new RSS Feed Api  
+[ ] Design HTML/CSS layout  
 
 # Contributing
 The [original repository](https://github.com/udacity/frontend-nanodegree-feedreader) is starter code for _all_ Udacity students. The original project was built by the team at Udacity for the [Front-End Web Development Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) course.
